@@ -1,6 +1,5 @@
 <h1>RDP Alert Sentinel</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
 This program is configured using Azure, Microsoft Sentinel, and a VM with Log Analytics to monitor RDP login events. It detects and sends notifications for successful RDP logins, enhancing security awareness.
