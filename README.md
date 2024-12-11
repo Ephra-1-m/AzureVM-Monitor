@@ -45,16 +45,7 @@ Once you click on the event, you can view information like the date, event sever
 <img src="https://i.imgur.com/u9nuiCP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Total cost for project:  <br/>
+Total setup cost  <br/>
 <img src="https://i.imgur.com/1XOy4hW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
